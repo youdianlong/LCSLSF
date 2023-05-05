@@ -1,5 +1,3 @@
-# LCSL_SF
-
 #Readme
 
 ##Description
